@@ -28,7 +28,7 @@ How to Use
 Clone the repository:
 
 bash
-git clone https://github.com/Saisandeep068/Customer-Purchase-Behavior-Analysis.git
+git clone https://github.com/Saisandeep068/analysing-customer-purchase-behaviour
 Install dependencies:
 
 bash
